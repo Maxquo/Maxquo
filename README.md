@@ -1,1 +1,6 @@
-# Hi I'm Maks
+# Hi I'm Max
+
+## Obout me
+## 15 yo
+## Poland
+## Chess, Rubik's cube, Music, Ski, Bike
