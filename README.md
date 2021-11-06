@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Maxquo
-- 👀 I’m interested in Chess
-- 🌱 I’m currently learning everything and nothing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Maxquo/Maxquo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![1200px-Python-logo-notext svg](https://user-images.githubusercontent.com/79167679/140615650-1537d4c0-f58c-4b0c-b116-4a63e8cd4cf2.png)
