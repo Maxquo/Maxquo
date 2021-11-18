@@ -3,7 +3,7 @@
 ## Obout me
 * 🎈 15 yo
 * 📌 Poland
-* ❤ Chess, Rubik's cube, Music, Ski, Bike
+* ❤ Chess, Rubik's Cube, Music, Skiing
 
 ## Programming Languages
 * 💙Python
